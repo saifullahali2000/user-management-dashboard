@@ -33,7 +33,7 @@ https://jsonplaceholder.typicode.com/users
 ### **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/user-management-dashboard.git
+https://github.com/saifullahali2000/user-management-dashboard.git
 cd user-management-dashboard
 
 
